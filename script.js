@@ -216,6 +216,9 @@ function FormValidation()
     }
   else
     {
+      task = randomIntFromInterval(7 ,12);
+      verb = randomIntFromInterval(0, array.length - 1);
+      $('div#question').text(array[0][task] + ' ' + array[verb][0]);
       answer.style.border = "2px solid red";
     }
 
