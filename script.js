@@ -195,9 +195,43 @@ var array = csv.split("\n").map(function (line) {
   return line.split(";");
 });
 
-var task = randomIntFromInterval(7 ,12);
-var verb = randomIntFromInterval(0, array.length - 1);
-$('div#question').text(array[0][task] + ' ' + array[verb][0]);
+var mode = 0; //0 - vertaal, 1 - present, 2 - perfectum
+var task = 0;
+var verb = 0;
+
+function UpdateQuestion ()
+{
+  verb = randomIntFromInterval(0, array.length - 1);
+  if (mode == 2)
+    {
+      task = randomIntFromInterval(7, 12);
+    }
+  else if (mode == 1)
+    {
+      task = randomIntFromInterval(1, 6);
+    }
+  else
+    {
+      task = 0;
+    }
+
+  if (mode > 0)
+    {
+      $('div#question').text(array[0][task] + ' ' + array[verb][0]);
+    }
+  else
+    {
+      $('div#question').text(array[0][task] + ' ' + array[verb][13]);
+    }
+}
+
+UpdateQuestion ();
+
+function CheckAnswer (val)
+{
+  var ans = array[verb][task];
+  return (val == ans);
+}
 
 function randomIntFromInterval(min, max) { // min and max included 
   return Math.floor(Math.random() * (max - min + 1) + min)
@@ -206,7 +240,7 @@ function randomIntFromInterval(min, max) { // min and max included
 function FormValidation()
 {
   let answer = document.querySelector("#answer");
-  if (answer.value == array[verb][task])
+  if (CheckAnswer (answer.value))
     {
       task = randomIntFromInterval(7 ,12);
       verb = randomIntFromInterval(0, array.length - 1);
@@ -214,7 +248,7 @@ function FormValidation()
       answer.style.border = "1px solid black";
       answer.value = "";
     }
-  else
+  else if (answer.value != "")
     {
       answer.style.border = "2px solid red";
       answer.blur ();
@@ -222,3 +256,22 @@ function FormValidation()
 
   return false;
 }
+
+function SetModeVertaal()
+{
+  mode = 0;
+  UpdateQuestion ();
+}
+
+function SetModePresent()
+{
+  mode = 1;
+  UpdateQuestion ();
+}
+
+function SetModePerfectum()
+{
+  mode = 2;
+  UpdateQuestion ();
+}
+
