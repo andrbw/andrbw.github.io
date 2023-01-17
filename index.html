@@ -7,13 +7,16 @@
 
 <body>
 
-<form name="Form" action="" method="POST">
+<form name="Form" action="" method="POST" onsubmit="return FormValidation()";>
 
-<div class="question">
-  What is your first name?<br/>
-  <input type="text" id="firstname" name="ans"/><br/><br/>
+<div class="q">
+  <div id="question">Test<br/></div>
+  <input type="text" id="answer" name="ans"/><br/><br/>
 </div>
 
 </form>
 
 </body>
+
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="script.js"></script>
