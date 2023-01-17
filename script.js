@@ -246,13 +246,14 @@ function FormValidation()
       verb = randomIntFromInterval(0, array.length - 1);
       $('div#question').text(array[0][task] + ' ' + array[verb][0]);
       answer.style.border = "1px solid black";
-      answer.value = "";
     }
   else if (answer.value != "")
     {
       answer.style.border = "2px solid red";
       answer.blur ();
     }
+
+  answer.value = "";
 
   return false;
 }
