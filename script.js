@@ -237,25 +237,21 @@ function randomIntFromInterval(min, max) { // min and max included
   return Math.floor(Math.random() * (max - min + 1) + min)
 }
 
-function FormValidation()
+function FormValidation(e)
 {
+  e.preventDefault();
   let answer = document.querySelector("#answer");
   if (CheckAnswer (answer.value))
     {
-      task = randomIntFromInterval(7 ,12);
-      verb = randomIntFromInterval(0, array.length - 1);
-      $('div#question').text(array[0][task] + ' ' + array[verb][0]);
+      UpdateQuestion ();
       answer.style.border = "1px solid black";
+      answer.value = "";
     }
   else if (answer.value != "")
     {
       answer.style.border = "2px solid red";
       answer.blur ();
     }
-
-  answer.value = "";
-
-  return false;
 }
 
 function SetModeVertaal()
@@ -274,5 +270,11 @@ function SetModePerfectum()
 {
   mode = 2;
   UpdateQuestion ();
+}
+
+function ShowCorrect()
+{
+  let answer = document.querySelector("#answer");
+  answer.value = array[verb][task];
 }
 

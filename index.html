@@ -1,24 +1,25 @@
 <!DOCTYPE html>
 
 <head>
-<title>Perfectum oefenen</title>
+<title>Nederlands verbum oefenen</title>
 <meta charset="utf-8">
 </head>
 
 <body>
 
-<form name="Form" action="" method="POST" onsubmit="return FormValidation()";>
+<form name="Form" action="" method="POST" onsubmit="FormValidation(event); return false";>
 
 <div class="q">
   <div id="question">Test<br/></div>
   <input type="text" id="answer" name="ans"/><br/><br/>
 </div>
 
+</form>
+
 <button onclick="SetModeVertaal()">Vertaal</button>
 <button onclick="SetModePresent()">Present</button>
 <button onclick="SetModePerfectum()">Perfectum</button>
-
-</form>
+<button onclick="ShowCorrect()">Toon het antwoord</button>
 
 </body>
 
