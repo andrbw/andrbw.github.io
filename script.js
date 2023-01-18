@@ -248,7 +248,7 @@ UpdateQuestion ();
 function CheckAnswer (val)
 {
   var ans = array[verb][task];
-  return (val == ans);
+  return (val.toLowerCase () == ans.toLowerCase ());
 }
 
 function randomIntFromInterval(min, max) { // min and max included 
