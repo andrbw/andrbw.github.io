@@ -156,7 +156,7 @@ dromen;droom;droomt;droomt;dromen;dromen;dromen;heb gedroomd;hebt gedroomd;heeft
 gebruiken;gebruik;gebruikt;gebruikt;gebruiken;gebruiken;gebruiken;heb gebruikt;hebt gebruikt;heeft gebruikt;hebben gebruikt;hebben gebruikt;hebben gebruikt;использовать
 grillen;gril;grilt;grilt;grillen;grillen;grillen;heb gegrild;hebt gegrild;heeft gegrild;hebben gegrild;hebben gegrild;hebben gegrild;готовить на гриле
 parkeren;parkeer;parkeert;parkeert;parkeren;parkeren;parkeren;heb geparkeerd;hebt geparkeerd;heeft geparkeerd;hebben geparkeerd;hebben geparkeerd;hebben geparkeerd;парковаться
-passen;pas;past;past;passen;passen;passen;heb gepast;hebt gepast;heeft gepast;hebben gepast;hebben gepast;hebben gepast;надевать (одежду)
+passen;pas;past;past;passen;passen;passen;heb gepast;hebt gepast;heeft gepast;hebben gepast;hebben gepast;hebben gepast;примерять (одежду)
 posten;post;post;post;posten;posten;posten;heb gepost;hebt gepost;heeft gepost;hebben gepost;hebben gepost;hebben gepost;отправлять почтой
 proeven;proef;proeft;proeft;proeven;proeven;proeven;heb geproefd;hebt geproefd;heeft geproefd;hebben geproefd;hebben geproefd;hebben geproefd;пробовать
 regenen;regen;regent;regent;regenen;regenen;regenen;heb geregend;hebt geregend;heeft geregend;hebben geregend;hebben geregend;hebben geregend;"""дождить"""
