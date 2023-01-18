@@ -201,6 +201,16 @@ var verb = 0;
 
 function UpdateQuestion ()
 {
+  let oldTask = task;
+  let oldVerb = verb;
+  while (oldTask == task && oldVerb == verb)
+    {
+      UpdateQuestionLogic ();
+    }
+}
+
+function UpdateQuestionLogic ()
+{
   verb = randomIntFromInterval(0, array.length - 1);
   if (mode == 2)
     {
