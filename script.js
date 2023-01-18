@@ -101,7 +101,7 @@ afdrogen;droog af;droogt af;droogt af;drogen af;drogen af;drogen af;heb afgedroo
 varen;vaar;vaart;vaart;varen;varen;varen;heb/ben gevaren;hebt/bent gevaren;heeft/is gevaren;hebben/zijn gevaren;hebben/zijn gevaren;hebben/zijn gevaren;плавать на корабле
 zeilen;zeil;zeilt;zeilt;zeilen;zeilen;zeilen;heb(?) gezeild;hebt(?) gezeild;heeft(?) gezeild;hebben(?) gezeild;hebben(?) gezeild;hebben(?) gezeild;плавать на корабле
 schillen;schil;schilt;schilt;schillen;schillen;schillen;heb geschild;hebt geschild;heeft geschild;hebben geschild;hebben geschild;hebben geschild;чистить (картошку)
-afstoven;stoof af;stooft af;stooft af;stooven af;stoven af;stoven af;heb afgestoofd;hebt afgestoofd;heeft afgestoofd;hebben afgestoofd;hebben afgestoofd;hebben afgestoofd;чистить от пыли
+afstoffen;stoof af;stooft af;stooft af;stoffen af;stoffen af;stoffen af;heb afgestoofd;hebt afgestoofd;heeft afgestoofd;hebben afgestoofd;hebben afgestoofd;hebben afgestoofd;чистить от пыли
 opruimen;ruim op;ruimt op;ruimt op;ruimen op;ruimen op;ruimen op;heb opgeruimd;hebt opgeruimd;heeft opgeruimd;hebben opgeruimd;hebben opgeruimd;hebben opgeruimd;убираться
 krijgen;krijg;krijgt;krijgt;krijgen;krijgen;krijgen;heb gekregen;hebt gekregen;heeft gekregen;hebben gekregen;hebben gekregen;hebben gekregen;получать
 geven;geef;geeft;geeft;geven;geven;geven;heb gegeven;hebt gegeven;heeft gegeven;hebben gegeven;hebben gegeven;hebben gegeven;давать
