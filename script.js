@@ -208,7 +208,15 @@ function UpdateQuestion ()
     }
   else if (mode == 1)
     {
-      task = randomIntFromInterval(1, 6);
+      let coin = randomIntFromInterval (1, 10);
+      if (coin > 8)
+        {
+          task = randomIntFromInterval(4, 6);
+        }
+      else
+        {
+          task = randomIntFromInterval(1, 3);
+        }
     }
   else
     {
