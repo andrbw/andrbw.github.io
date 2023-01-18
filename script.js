@@ -148,7 +148,7 @@ opstaan;sta op;staat op;staat op;staan op;staan op;staan op;ben opgestaan;bent o
 vallen;val;valt;valt;vallen;vallen;vallen;ben gevallen;bent gevallen;is gevallen;zijn gevallen;zijn gevallen;zijn gevallen;падать
 trouwen;trouw;trouwt;trouwt;trouwen;trouwen;trouwen;ben getrouwd;bent getrouwd;is getrouwd;zijn getrouwd;zijn getrouwd;zijn getrouwd;жениться
 scheiden;scheid;scheidt;scheidt;scheiden;scheiden;scheiden;ben gescheiden;bent gescheiden;is gescheiden;zijn gescheiden;zijn gescheiden;zijn gescheiden;разводиться
-basketballen;basketbal;basketbalt;basketbalt;basketballen;basketballen;basketballen;heb gebasketbald;hebt gebasketbald;heeft gebasketbald;hebben gebaskebald;hebben gebaskebald;hebben gebaskebald;играть в баскетбол
+basketballen;basketbal;basketbalt;basketbalt;basketballen;basketballen;basketballen;heb gebasketbald;hebt gebasketbald;heeft gebasketbald;hebben gebasketbald;hebben gebasketbald;hebben gebasketbald;играть в баскетбол
 bellen;bel;belt;belt;bellen;bellen;bellen;heb gebeld;hebt gebeld;heeft gebeld;hebben gebeld;hebben gebeld;hebben gebeld;звонить
 bestellen;bestel;bestelt;bestelt;bestellen;bestellen;bestellen;heb besteld;hebt besteld;heeft besteld;hebben besteld;hebben besteld;hebben besteld;заказывать
 botsen;bots;botst;botst;botsen;botsen;botsen;ben gebotst;bent gebotst;is gebotst;zijn gebotst;zijn gebotst;zijn gebotst;врезаться
