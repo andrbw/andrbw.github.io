@@ -99,7 +99,7 @@ afwassen;was af;wast af;wast af;wassen af;wassen af;wassen af;heb afgewassen;heb
 lachen;lach;lacht;lacht;lachen;lachen;lachen;heb gelachen;hebt gelachen;heeft gelachen;hebben gelachen;hebben gelachen;hebben gelachen;смеяться
 afdrogen;droog af;droogt af;droogt af;drogen af;drogen af;drogen af;heb afgedroogd;hebt afgedroogd;heeft afgedroogd;hebben afgedroogd;hebben afgedroogd;hebben afgedroogd;сушить/вытирать посуду
 varen;vaar;vaart;vaart;varen;varen;varen;heb/ben gevaren;hebt/bent gevaren;heeft/is gevaren;hebben/zijn gevaren;hebben/zijn gevaren;hebben/zijn gevaren;плавать на корабле
-zeilen;zeil;zeilt;zeilt;zeilen;zeilen;zeilen;heb(?) gezeild;hebt(?) gezeild;heeft(?) gezeild;hebben(?) gezeild;hebben(?) gezeild;hebben(?) gezeild;плавать на корабле
+zeilen;zeil;zeilt;zeilt;zeilen;zeilen;zeilen;heb/ben gezeild;hebt/bent gezeild;heeft/is gezeild;hebben/zijn gezeild;hebben/zijn gezeild;hebben/zijn gezeild;плавать на корабле
 schillen;schil;schilt;schilt;schillen;schillen;schillen;heb geschild;hebt geschild;heeft geschild;hebben geschild;hebben geschild;hebben geschild;чистить (картошку)
 afstoffen;stoof af;stooft af;stooft af;stoffen af;stoffen af;stoffen af;heb afgestoofd;hebt afgestoofd;heeft afgestoofd;hebben afgestoofd;hebben afgestoofd;hebben afgestoofd;чистить от пыли
 opruimen;ruim op;ruimt op;ruimt op;ruimen op;ruimen op;ruimen op;heb opgeruimd;hebt opgeruimd;heeft opgeruimd;hebben opgeruimd;hebben opgeruimd;hebben opgeruimd;убираться
