@@ -211,7 +211,7 @@ function UpdateQuestion ()
 
 function UpdateQuestionLogic ()
 {
-  verb = randomIntFromInterval(0, array.length - 1);
+  verb = randomIntFromInterval(1, array.length - 1);
   if (mode == 2)
     {
       task = randomIntFromInterval(7, 12);
