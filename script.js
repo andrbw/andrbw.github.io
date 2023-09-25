@@ -107,7 +107,7 @@ krijgen;krijg;krijgt;krijgt;krijgen;krijgen;krijgen;heb gekregen;hebt gekregen;h
 geven;geef;geeft;geeft;geven;geven;geven;heb gegeven;hebt gegeven;heeft gegeven;hebben gegeven;hebben gegeven;hebben gegeven;gaf;gaven;давать
 kamperen;kampeer;kampeert;kampeert;kamperen;kamperen;kamperen;heb gekampeerd;hebt gekampeerd;heeft gekampeerd;hebben gekampeerd;hebben gekampeerd;hebben gekampeerd;kampeerde;kampeerden;заниматься кемпингом
 roken;rook;rookt;rookt;roken;roken;roken;heb gerookt;hebt gerookt;heeft gerookt;hebben gerookt;hebben gerookt;hebben gerookt;rookte;rookten;курить
-behangen;behang;behangt;behangt;behangen;behangen;behangen;heb behangen;hebt behangen;heeft behangen;hebben behangen;hebben behangen;hebben behangen;hing;hingen;клеить обои
+behangen;behang;behangt;behangt;behangen;behangen;behangen;heb behangen;hebt behangen;heeft behangen;hebben behangen;hebben behangen;hebben behangen;behing;behingen;клеить обои
 dekken;dek;dekt;dekt;dekken;dekken;dekken;heb gedekt;hebt gedekt;heeft gedekt;hebben gedekt;hebben gedekt;hebben gedekt;dekte;dekten;сервировать (стол)
 repareren;repareer;repareert;repareert;repareren;repareren;repareren;heb gerepareerd;hebt gerepareerd;heeft gerepareerd;hebben gerepareerd;hebben gerepareerd;hebben gerepareerd;repareerde;repareerden;чинить
 naaien;naai;naait;naait;naaien;naaien;naaien;heb genaaid;hebt genaaid;heeft genaaid;hebben genaaid;hebben genaaid;hebben genaaid;naaide;naaiden;шить
