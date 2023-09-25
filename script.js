@@ -59,7 +59,7 @@ praten;praat;praat;praat;praten;praten;praten;heb gepraat;hebt gepraat;heeft gep
 slapen;slaap;slaapt;slaapt;slapen;slapen;slapen;heb geslapen;hebt geslapen;heeft geslapen;hebben geslapen;hebben geslapen;hebben geslapen;sliep;sliepen;спать
 spelen;speel;speelt;speelt;spelen;spelen;spelen;heb gespeeld;hebt gespeeld;heeft gespeeld;hebben gespeeld;hebben gespeeld;hebben gespeeld;speelde;speelden;играть
 stofzuigen;stofzuig;stofzuigt;stofzuigt;stofzuigen;stofzuigen;stofzuigen;heb gestofzuigd;hebt gestofzuigd;heeft gestofzuigd;hebben gestofzuigd;hebben gestofzuigd;hebben gestofzuigd;stofzuigde;stofzuigden;пылесосить
-telefoneren;telefoneer;telefoneert;telefoneert;telefoneren;telefoneren;telefoneren;heb getelefoneerd;hebt getelefoneerd;heeft getelefoneerd;hebben getelefoneerd;hebben getelefoneerd;hebben getelefoneerd;telefonerde;telefonerden;звонить
+telefoneren;telefoneer;telefoneert;telefoneert;telefoneren;telefoneren;telefoneren;heb getelefoneerd;hebt getelefoneerd;heeft getelefoneerd;hebben getelefoneerd;hebben getelefoneerd;hebben getelefoneerd;telefoneerde;telefoneerden;звонить
 tennissen;tennis;tennist;tennist;tennissen;tennissen;tennissen;heb getennist;hebt getennist;heeft getennist;hebben getennist;hebben getennist;hebben getennist;tenniste;tennisten;играть в теннис
 vergaderen;vergader;vergadert;vergadert;vergaderen;vergaderen;vergaderen;heb vergaderd;hebt vergaderd;heeft vergaderd;hebben vergaderd;hebben vergaderd;hebben vergaderd;vergaderde;vergaderden;быть на митинге (на работе)
 volleyballen;volleybal;volleybalt;volleybalt;volleyballen;volleyballen;volleyballen;heb gevolleybald;hebt gevolleybald;heeft gevolleybald;hebben gevolleybald;hebben gevolleybald;hebben gevolleybald;volleybalde;volleybalden;играть в воллейбол
