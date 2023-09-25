@@ -53,7 +53,7 @@ joggen;jog;jogt;jogt;joggen;joggen;joggen;heb/ben gejogd;hebt/bent gejogd;heeft/
 koken;kook;kookt;kookt;koken;koken;koken;heb gekookt;hebt gekookt;heeft gekookt;hebben gekookt;hebben gekookt;hebben gekookt;kookte;kookten;готовить
 kopen;koop;koopt;koopt;kopen;kopen;kopen;heb gekocht;hebt gekocht;heeft gekocht;hebben gekocht;hebben gekocht;hebben gekocht;kocht;kochten;покупать
 lopen;loop;loopt;loopt;lopen;lopen;lopen;heb/ben gelopen;hebt/bent gelopen;heeft/is gelopen;hebben/zijn gelopen;hebben/zijn gelopen;hebben/zijn gelopen;liep;liepen;бегать, гулять
-zich ontspannen;ontspan me;ontspant je;ontspant zich;ontspan ons;ontspan je;ontspan zich;heb me ontspannen;hebt je ontspannen;heeft zich ontspannen;hebben ons ontspannen;hebben je ontspannen;hebben zich ontspannen;ontspande me;omtspanden ons;отдыхать
+zich ontspannen;ontspan me;ontspant je;ontspant zich;ontspan ons;ontspan je;ontspan zich;heb me ontspannen;hebt je ontspannen;heeft zich ontspannen;hebben ons ontspannen;hebben je ontspannen;hebben zich ontspannen;ontspande me;ontspanden ons;отдыхать
 poetsen;poets;poetst;poetst;poetsen;poetsen;poetsen;heb gepoetst;hebt gepoetst;heeft gepoetst;hebben gepoetst;hebben gepoetst;hebben gepoetst;poetste;poetsten;чистить (зубы)
 praten;praat;praat;praat;praten;praten;praten;heb gepraat;hebt gepraat;heeft gepraat;hebben gepraat;hebben gepraat;hebben gepraat;praatte;praatten;болтать
 slapen;slaap;slaapt;slaapt;slapen;slapen;slapen;heb geslapen;hebt geslapen;heeft geslapen;hebben geslapen;hebben geslapen;hebben geslapen;sliep;sliepen;спать
