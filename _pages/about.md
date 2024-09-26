@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>The Beacon, 6th floor</p>
-    <p>Sint-Pietersvliet 7, 2000 Antwerpen</p>
+    <p>Sint-Pietersvliet 7</p>
+    <p>2000 Antwerpen, Belgium</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
