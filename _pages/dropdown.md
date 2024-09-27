@@ -1,7 +1,7 @@
 ---
-layout: page
-title: submenus
-nav: true
+layout: #page
+title: #submenus
+nav: false #true
 nav_order: 8
 dropdown: true
 children:

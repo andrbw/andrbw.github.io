@@ -1,8 +1,8 @@
 ---
-layout: default
-permalink: /blog/
-title: blog
-nav: true
+layout: #default
+permalink: #/blog/
+title: #blog
+nav: false #true
 nav_order: 1
 pagination:
   enabled: true
