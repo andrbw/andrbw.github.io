@@ -34,8 +34,8 @@
     },
     {
       "name": "Institute for Information Transmission Problems, Moscow, Russia",
-      "position": "Senior researcher (prev. junior, assistant)",
-      "url": "http://iitp.ru/en/about",
+      "position": "Senior researcher (prev. Researcher, Junior Researcher, Research Assistant)",
+      "url": "http://wireless.iitp.ru/",
       "startDate": "2014-09-01",
       "endDate": "2022-05-01",
       "summary": "Multiple projects on: 5G RAN (URLLC, rate adaptation, scheduling, carrier aggregation), Wi-Fi Mesh, reduction of control overhead. Teaching Network Simulation for 3rd and 4th year bachelor students.",
@@ -51,13 +51,13 @@
       "highlights": []
     }
   ],
-  "other activities": [
+  "volunteer": [
     {
       "organization": "Bijleshuis",
       "location": "Belgium",
       "position": "Tutor",
       "url": "https://bijleshuis.be/",
-      "startDate": "2014-01-30",
+      "startDate": "2024-01-30",
       "endDate": "present",
       "summary": "Mathematics and programming tutor for students.",
       "highlights": []
@@ -67,9 +67,19 @@
       "location": "Antwerp, Belgium",
       "position": "Group organizer",
       "url": "https://www.meetup.com/meetup-group-ijodptax",
-      "startDate": "2014-03-15",
+      "startDate": "2024-03-15",
       "endDate": "present",
       "summary": "Organizing local volleyball games in Antwerp. More than 400 members.",
+      "highlights": []
+    },
+    {
+      "organization": "UAntwerpen",
+      "location": "Antwerp, Belgium",
+      "position": "Member of organizing committee",
+      "url": "https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-science/research/research-day/",
+      "startDate": "2023-08-17",
+      "endDate": "present",
+      "summary": "Organizing Faculty of Science Research Day in UAntwerpen.",
       "highlights": []
     }
   ],
