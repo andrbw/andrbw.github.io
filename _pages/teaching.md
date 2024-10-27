@@ -1,17 +1,35 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: #Materials for courses you taught. Replace this text with your description.
+permalink: /teaching/
+description: 
 nav: true
 nav_order: 6
+horizontal: false
 ---
 
-- ### Computer networks (UAntwerp, 2023 - present)
-Mininet and NS-3 labs, from application layer (HTTP, SSH) down to network and data link layers (ARP, NDP, STP, etc.) and wireless medium access (Aloha, CSMA, DCF).
+<!-- pages/teaching.md -->
+<div class="teaching">
 
-- ### Network simulation with NS-3 (IITP, 2018 - 2022)
-Labs using one of the most popular network simulator NS-3, e.g., modeling of M/G/1 queuing systems, ALOHA, CSMA, Wi-Fi DCF, OLSR, rate control, etc.
+<!-- Display projects without categories -->
 
-- ### Probability theory (HSE, 2019)
-Practical classes for 2nd year students of Physical department.
+{% assign sorted_courses = site.teaching | sort: "importance" %}
+
+  <!-- Generate cards for each course -->
+
+{% if page.horizontal %}
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for course in sorted_courses %}
+      {% include teaching_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+{% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for course in sorted_courses %}
+      {% include teaching.liquid %}
+    {% endfor %}
+  </div>
+{% endif %}
+</div>
