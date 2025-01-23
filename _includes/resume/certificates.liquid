@@ -6,9 +6,19 @@
         <tbody>
           <tr>
             {% if content.icon %}
-              <td class="list-group-category-icon">
-                <i class="{{ content.icon }}"></i>
-              </td>
+              {% if content.icon contains ".jpg" or content.icon contains ".png" or content.icon contains ".svg" %}
+                <td class="list-group-category-icon">
+                  {%
+                    include figure.liquid
+                    path=content.icon
+                    width=45
+                  %}
+                </td>
+              {% else %}
+                <td class="list-group-category-icon">
+                  <i class="{{ content.icon }}"></i>
+                </td>
+              {% endif %}
             {% else %}
               <td class="list-group-category-icon"></td>
             {% endif %}
@@ -22,7 +32,6 @@
             </td>
           </tr>
           <tr>
-            <td></td>
             <td class="list-group-name">
               <b>{{ content.issuer }}</b>
             </td>
