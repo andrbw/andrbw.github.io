@@ -185,6 +185,22 @@
       ]
     }
   ],
+  "certificates": [
+    {
+      "name": "Understanding and Visualizing Data with Python",
+      "icon": "coursera_logo.jpg",
+      "url": "https://coursera.org/share/7b8ba8de22778816c3274960e697f133",
+      "issuer": "Coursera",
+      "date": "2024-12-29"
+    },
+    {
+      "name": "Digital Signal Processing 1: Basic Concepts and Algorithms",
+      "icon": "coursera_logo.jpg",
+      "url": "https://coursera.org/share/3d9f1444bca2841985dea83cf231983a",
+      "issuer": "Coursera",
+      "date": "2025-01-23"
+    }
+  ],
   "languages": [
     {
       "language": "Russian",
