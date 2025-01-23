@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BEL6GICA 3rd Public-Private Advisory Board Meeting
-date: 2024-11-25 17:00:00-0000
+date: 2024-12-21 17:00:00-0000
 inline: true
 related_posts: false
 ---
