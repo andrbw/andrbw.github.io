@@ -5,5 +5,5 @@ description: Blueprint for Excellence and Leadership in 6G through Interregional
 img: assets/img/bel6gica.jpg
 redirect: https://6g.be/
 importance: 3
-category: current
+category: past
 ---

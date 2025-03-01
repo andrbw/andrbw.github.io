@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BEL6GICA 3rd Public-Private Advisory Board Meeting
+title: WCNC 2025
 date: 2024-12-21 17:00:00-0000
 inline: true
 related_posts: false
