@@ -63,7 +63,7 @@
       "highlights": []
     },
     {
-      "organization": "No Blockers fv.",
+      "organization": "No Blockers vzw",
       "location": "Antwerp, Belgium",
       "position": "Volleyball club chairman",
       "url": "https://no-blockers.be/",
@@ -78,7 +78,7 @@
       "position": "Group organizer",
       "url": "https://www.meetup.com/meetup-group-ijodptax",
       "startDate": "2024-03-15",
-      "endDate": "present",
+      "endDate": "2025-10-14",
       "summary": "Organizing local volleyball games in Antwerp. More than 600 members.",
       "highlights": []
     },
@@ -207,6 +207,12 @@
       "icon": "assets/img/coursera_logo.jpg",
       "url": "https://coursera.org/share/3d9f1444bca2841985dea83cf231983a",
       "date": "2025-01-23"
+    },
+    {
+      "name": "Decision Making and Reinforcement Learning",
+      "icon": "assets/img/coursera_logo.jpg",
+      "url": "https://coursera.org/share/55ba47dd99f0f02c60f57b6d2be154ba",
+      "date": "2026-01-12"
     }
   ],
   "languages": [

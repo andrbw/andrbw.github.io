@@ -13,9 +13,10 @@ nav_order: 7
 
 <h2>Technical Programme Committees (TPC) Membership</h2>
 <ul>
-  <li>IEEE ICC SAC - Machine Learning for Communications & Networking 2025 </li>
-  <li>IEEE/CIC International Conference on Communications in China 2025 </li>
-  <li>IEEE BlackSeaCom 2025 </li>
+  <li>IEEE ICC SAC - Machine Learning for Communications & Networking (2025-present) </li>
+  <li>IEEE Vehicular Technology Conference (2026)</li>
+  <li>IEEE/CIC International Conference on Communications in China (2025) </li>
+  <li>IEEE BlackSeaCom (2025) </li>
   <!-- Add more items here -->
 </ul>
 
@@ -26,6 +27,7 @@ nav_order: 7
   <li>IEEE Transactions on Vehicular Technology</li>
   <li>Elsevier Vehicular Communications</li>
   <li>Elsevier Physical Communication</li>
+  <li>IEEE Transactions on Network and Service Management</li>
   <!-- Add more items here -->
 </ul>
 
