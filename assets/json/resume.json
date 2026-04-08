@@ -65,11 +65,11 @@
     {
       "organization": "No Blockers vzw",
       "location": "Antwerp, Belgium",
-      "position": "Volleyball club chairman",
+      "position": "Volleyball club board member",
       "url": "https://no-blockers.be/",
       "startDate": "2025-07-01",
       "endDate": "present",
-      "summary": "Official English-speaking volleyball club in Antwerp organized by expats. Club is represented in Sporta 4 league.",
+      "summary": "Official English-speaking volleyball club in Antwerp organized by expats. Champions of season 2025-2026 in Sporta 4.",
       "highlights": []
     },
     {
@@ -88,7 +88,7 @@
       "position": "Member of organizing committee",
       "url": "https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-science/research/research-day/",
       "startDate": "2023-08-17",
-      "endDate": "present",
+      "endDate": "2026-03-01",
       "summary": "Organizing Faculty of Science Research Day in UAntwerpen.",
       "highlights": []
     }
@@ -170,7 +170,8 @@
         "Queueing theory",
         "Probability theory",
         "Linear algebra",
-        "Calculus"
+        "Calculus",
+        "Artificial intelligence foundations"
       ]
     },
     {
@@ -182,7 +183,8 @@
         "Git/Svn/Mercurial",
         "Linux",
         "Algorithms",
-        "Data structures"
+        "Data structures",
+        "AI-assisted programming"
       ]
     },
     {
@@ -213,6 +215,12 @@
       "icon": "assets/img/coursera_logo.jpg",
       "url": "https://coursera.org/share/55ba47dd99f0f02c60f57b6d2be154ba",
       "date": "2026-01-12"
+    },
+    {
+      "name": "Project Management",
+      "icon": "assets/img/uantwerpen_logo.png",
+      "url": "",
+      "date": "2025-11-19"
     }
   ],
   "languages": [
