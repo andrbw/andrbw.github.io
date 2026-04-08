@@ -5,5 +5,5 @@ description: Low Latency Communication for Energy Harvesting Robot Swarms <br />
 img: assets/img/locusts.jpg
 redirect: 
 importance: 3
-category: current
+category: past
 ---
