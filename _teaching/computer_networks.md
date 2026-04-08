@@ -36,8 +36,8 @@ th {
 |------------------------------------------------------------------|-----------------|
 | Lab0: Introduction to Wireshark, IPMininet, MiniNAM              | [Wireshark](https://www.wireshark.org/learn), [IPMininet](https://ipmininet.readthedocs.io/en/latest/getting_started.html), [MiniNAM](https://github.com/BelogaevIDLab/MiniNAM_fork)|
 | Lab1: The Application Layer (HTTP, DNS)                          |                 |
-| Lab2: Transport Layer Protocols (TCP, UDP)                       |                 |
+| Lab2: Transport Layer Protocols (TCP, UDP)                       | [TCP](/assets/pdf/teaching/cn/tcp.pdf) |
 | Lab3: IPv4 and IPv6 (fragmentation, NAT, radvd)                  |                 |
-| Lab4: IP Routing (static, OSPF, BGP)                             |                 |
+| Lab4: IP Routing (static, OSPF, BGP)                             | [Routing](/assets/pdf/teaching/cn/routing.pdf) |
 | Lab5: Single Segment IP Networks - LANs (NDP, ARP, STP)          |                 |
 | Lab6: Medium Access Control in Wireless Networks (Aloha, CSMA)   | [NS-3 intro](/assets/pdf/teaching/cn/ns3-intro.pdf), [lab6](/assets/pdf/teaching/cn/cn_lab6.pdf)|
