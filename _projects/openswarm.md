@@ -5,5 +5,5 @@ description: Orchestration and Programming of ENergy-aware and collaborative Swa
 img: assets/img/openswarm.png
 redirect: https://openswarm.eu/
 importance: 3
-category: current
+category: past
 ---
